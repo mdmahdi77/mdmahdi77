@@ -2,7 +2,7 @@
 
 ## I'm a frontend web developer
 
-- 🔭 I'm currently student of Programming Hero
+- 🔭 I'm currently student
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m finding the job as a web developer
 - 🥅 2021 Goals: Learn React Native, Next Js And Angular Js
